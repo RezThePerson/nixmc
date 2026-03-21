@@ -1,0 +1,30 @@
+{
+  "accounts": [
+    {
+      "type": "elyby",
+      "username": "sigma_chad"
+    },
+    {
+      "type": "offline",
+      "username": "sigma_chad"
+    }
+  ],
+  "config": {
+    "javaPath": "java",
+    "memory": {
+      "min": 2,
+      "max": 4
+    }
+  },
+  "instances": [
+    {
+      "name": "main",
+      "version": "1.21.1",
+      "folder": "main_1_21_11",
+      "mods": {
+        "loader": "fabric",
+        "mods": ["modrinth:modmenu:latest", "modrinth:sodium:latest"]
+      }
+    }
+  ]
+}
