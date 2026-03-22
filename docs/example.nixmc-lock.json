@@ -1,51 +1,51 @@
 {
-    "accounts": [
-        {
-            "type": "elyby",
-            "username": "sigma_chad",
-            "status": "ready"
-        },
-        {
-            "type": "offline",
-            "username": "sigma_chad"
-        }
-    ],
-    "config": {
-        "javaPath": "java",
-        "memory": {
-            "min": 2,
-            "max": 4
-        }
+  "accounts": [
+    {
+      "type": "elyby",
+      "username": "sigma_chad",
+      "status": "ready"
     },
-    "instances": [
-        {
-            "name": "main",
-            "version": "1.21.1",
-            "folder": "main_1_21_11",
-            "mods": {
-                "loader": "fabric",
-                "loaderVersion": "0.14.20",
-                "mods": [
-                    {
-                        "provider": "modrinth",
-                        "mod": "modmenu",
-                        "version": "43344",
-                        "dependencies": [
-                            {
-                                "provider": "modrinth",
-                                "mod": "fabric-api",
-                                "version": "0.89.1"
-                            },
-                            {
-                                "provider": "modrinth",
-                                "mod": "fabric-language-kotlin",
-                                "version": "1.8.0"
-                            }
-                        ]
-                    }
-                ],
-                "DependencyModsDownloaded": ["sodium"]
-            }
-        }
-    ]
+    {
+      "type": "offline",
+      "username": "sigma_chad"
+    }
+  ],
+  "config": {
+    "javaPath": "java",
+    "memory": {
+      "min": 2,
+      "max": 4
+    }
+  },
+  "instances": [
+    {
+      "name": "main",
+      "version": "1.21.1",
+      "folder": "main_1_21_11",
+      "mods": {
+        "loader": "fabric",
+        "loaderVersion": "0.14.20",
+        "mods": [
+          {
+            "provider": "modrinth",
+            "mod": "modmenu",
+            "version": "43344",
+            "dependencies": [
+              {
+                "provider": "modrinth",
+                "mod": "fabric-api",
+                "version": "0.89.1"
+              },
+              {
+                "provider": "modrinth",
+                "mod": "fabric-language-kotlin",
+                "version": "1.8.0"
+              }
+            ]
+          }
+        ],
+        "DependencyModsDownloaded": ["sodium"]
+      }
+    }
+  ]
 }

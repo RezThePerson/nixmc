@@ -1,0 +1,5 @@
+{
+  "name": "nixmc",
+  "module": "index.js",
+  "type": "module"
+}
