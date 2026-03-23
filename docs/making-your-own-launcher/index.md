@@ -1,6 +1,6 @@
-# how do i make my own launcher?
+# making your own launcher
 
-before going directly into making your own launcher, first know what do they do?
+before going directly into making your own launcher, first find out what do they do:
 
 ## what do launchers do?
 
@@ -15,6 +15,8 @@ additionally they may also
 - add a ui
 - add fabric/forge/other mod loaders support
 - search and install mods/resource packs/etc from modrinth/curseforge/etc
+
+## 
 
 ## setting up game files / installing minecraft
 

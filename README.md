@@ -10,4 +10,4 @@ couse funny
 
 ## what do launchers even do / how do they work / how can i make my own?
 
-have a look at the [making your own launcher](docs/making-a-launcher/index.md) page
+have a look at the [making your own launcher](docs/making-your-own-launcher/index.md) page
