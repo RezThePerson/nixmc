@@ -30,3 +30,7 @@ refer to the dedicated [file structure page](file-structure.md)
 ### installing game files
 
 refer to the dedicated [installation page](installing-game-files.md)
+
+### authenticating
+
+refer to the dedicated [authenticating page](authenticating.md)
